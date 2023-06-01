@@ -1,4 +1,4 @@
-#FlipSociety Firmware
+# FlipSociety Firmware
 
 Coming soon...
 
