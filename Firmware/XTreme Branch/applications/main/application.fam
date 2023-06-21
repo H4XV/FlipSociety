@@ -1,0 +1,19 @@
+App(
+    appid="main_apps",
+    name="Basic applications for main menu",
+    apptype=FlipperAppType.METAPACKAGE,
+    provides=[
+        "fap_loader",
+        "subghz",
+        "lfrfid",
+        "nfc",
+        "infrared",
+        "gpio",
+        "onewire",
+        "ibutton",
+        "bad_kb",
+        "u2f",
+        "xtreme_app",
+        "archive",
+    ],
+)
